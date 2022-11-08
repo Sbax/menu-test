@@ -12,9 +12,11 @@ function Drink({ drinks }) {
           <div>
             Prezzo: <span>{price}</span>
           </div>
-          <div>
-            Categoria: <span>{category}</span>
-          </div>
+          {category && (
+            <div>
+              Categoria: <span>{category}</span>
+            </div>
+          )}
         </article>
       ))}
     </div>
