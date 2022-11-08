@@ -2,7 +2,7 @@
   {
     "name": "Drink 3",
     "price": "15",
-    "category": ""
+    "category": "Long"
   },
   {
     "name": "Drink 1",
@@ -13,5 +13,15 @@
     "name": "Drink 2",
     "price": "15",
     "category": "Aperitivo"
+  },
+  {
+    "name": "Drink 4",
+    "price": "15",
+    "category": "Long"
+  },
+  {
+    "name": "Drink 5",
+    "price": "15",
+    "category": "Negroni"
   }
 ]
