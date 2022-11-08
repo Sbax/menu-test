@@ -1,5 +1,10 @@
 [
   {
+    "name": "Drink 3",
+    "price": "15",
+    "category": ""
+  },
+  {
     "name": "Drink 1",
     "price": "10",
     "category": "Aperitivo"
